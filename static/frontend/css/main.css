@@ -83,8 +83,8 @@ label {
 
 .btn {
     color: #fff;
-    background-color: #ec5252;
-    border-color: #ec5252;
+    background-color: rgb(32,64,154);
+    border-color: rgb(32,64,154);
     padding: 11px 12px;
     font-size: 15px;
     border-radius: 2px;
@@ -94,8 +94,8 @@ label {
 
 .btn:hover,
 .btn:focus {
-    background-color: #992337;
-    border-color: #992337;
+    background-color: rgb(10, 36, 109);
+    border-color: rgb(10, 36, 109);
     color: #fff;
 }
 
@@ -242,13 +242,13 @@ input:focus {
     font-size: 15px;
     padding: 10px 15px;
     background: #f2f3f5;
-    color: #ec5252;
+    color: rgb(32,64,154);
 }
 
 .search-box button:hover,
 .search-box button:focus {
-    background-color: #ec5252 !important;
-    border-color: #ec5252;
+    background-color: rgb(32,64,154) !important;
+    border-color: rgb(32,64,154);
     color: #fff;
 }
 
@@ -279,7 +279,7 @@ input:focus {
     position: absolute;
     top: 14px;
     right: 2px;
-    background-color: #ec5252;
+    background-color: rgb(32,64,154);
     border-radius: 15px;
     color: #fff;
     font-size: 10px;
@@ -388,7 +388,7 @@ input:focus {
 }
 
 .course-list-dropdown .item-list .item .item-details .current-price {
-    color: #ec5252;
+    color: rgb(32,64,154);
     font-size: 18px;
     font-weight: 600;
     margin-right: 5px;
@@ -405,7 +405,7 @@ input:focus {
 }
 
 .course-list-dropdown .item-list .item .item-details .current-price {
-    color: #ec5252;
+    color: rgb(32,64,154);
     font-size: 18px;
     font-weight: 600;
     margin-right: 5px;
@@ -464,7 +464,7 @@ input:focus {
 }
 
 .course-list-dropdown .dropdown-footer .cart-total-price .current-price {
-    color: #ec5252;
+    color: rgb(32,64,154);
     font-size: 18px;
     font-weight: 600;
     margin-right: 5px;
@@ -701,8 +701,8 @@ input:focus {
 
 .sign-in-box .btn-sign-up {
     color: #fff;
-    background-color: #ec5252;
-    border: 1px solid #ec5252;
+    background-color: rgb(32,64,154);
+    border: 1px solid rgb(32,64,154);
 }
 
 .sign-in-box .btn-sign-up:hover,
@@ -863,8 +863,8 @@ input:focus {
 
 .sign-in-modal form button[type="submit"] {
     color: #fff;
-    background-color: #ec5252;
-    border-color: #ec5252;
+    background-color: rgb(32,64,154);
+    border-color: rgb(32,64,154);
     font-size: 16px;
     font-weight: 700;
     height: 50px;
@@ -1055,21 +1055,21 @@ input:focus {
     background: #fff;
     border: 0;
     border-radius: 0 3px 3px 0;
-    color: #ec5252;
+    color: rgb(32,64,154);
 }
 
 .home-banner-wrap .btn:hover {
-    background: #ec5252;
+    background: rgb(32,64,154);
     color: #fff;
 }
 
 .home-fact-area {
-    background-color: #ec5252;
-    background: -webkit-linear-gradient(-45deg, #ec5252, #6e1a52);
-    background: -moz-linear-gradient(-45deg, #ec5252 0, #6e1a52 100%);
-    background: -ms-linear-gradient(-45deg, #ec5252 0, #6e1a52 100%);
-    background: -o-linear-gradient(-45deg, #ec5252 0, #6e1a52 100%);
-    background: linear-gradient(-45deg, #ec5252, #6e1a52);
+    background-color: rgb(32,64,154);
+    background: -webkit-linear-gradient(-45deg, rgb(32,64,154), #6e1a52);
+    background: -moz-linear-gradient(-45deg, rgb(32,64,154) 0, #6e1a52 100%);
+    background: -ms-linear-gradient(-45deg, rgb(32,64,154) 0, #6e1a52 100%);
+    background: -o-linear-gradient(-45deg, rgb(32,64,154) 0, #6e1a52 100%);
+    background: linear-gradient(-45deg, rgb(32,64,154), #6e1a52);
     color: #fff;
     padding: 15px 0;
     margin-bottom: 50px
@@ -1387,7 +1387,7 @@ input:focus {
 }
 
 .course-box .course-details .your-rating-box:hover .your-rating-text {
-    color: #ec5252;
+    color: rgb(32,64,154);
 }
 
 .course-box .course-details .your-rating-box .your-rating-text .edit {
@@ -1448,7 +1448,7 @@ input:focus {
 }
 
 .course-badge.hot-new {
-    background: #ec5252;
+    background: rgb(32,64,154);
     color: #fff;
 }
 
@@ -1501,7 +1501,7 @@ input:focus {
 .course-box .wishlist-add.wishlisted button i,
 .course-box .favorite-add button:hover i,
 .course-box .favorite-add.added button i {
-    color: #ec5252;
+    color: rgb(32,64,154);
 }
 
 .course-box .wishlist-add button i,
@@ -1697,15 +1697,15 @@ input:focus {
 }
 
 .addedToCart {
-    color: #ec5252;
+    color: rgb(32,64,154);
     background-color: #ffffff;
-    border-color: #ec5252;
+    border-color: rgb(32,64,154);
 }
 
 .addedToCart:hover {
-    color: #ec5252;
+    color: rgb(32,64,154);
     background-color: #ffffff;
-    border-color: #ec5252;
+    border-color: rgb(32,64,154);
 }
 
 .course-popover-content .popover-btns .wishlist-btn {
@@ -1719,13 +1719,13 @@ input:focus {
 
 .course-popover-content .popover-btns .wishlist-btn i {
     color: transparent;
-    text-stroke: 1px #ec5252;
-    -webkit-text-stroke: 1px #ec5252;
+    text-stroke: 1px rgb(32,64,154);
+    -webkit-text-stroke: 1px rgb(32,64,154);
 }
 
 .course-popover-content .popover-btns .wishlist-btn.active i,
 .course-popover-content .popover-btns .wishlist-btn:hover i {
-    color: #ec5252;
+    color: rgb(32,64,154);
 }
 
 .webui-popover.left > .webui-arrow,
@@ -1934,8 +1934,8 @@ section.course-header-area {
 
 .course-sidebar-text-box .buy-btns .btn-buy-now {
     color: #fff;
-    background-color: #ec5252;
-    border-color: #ec5252;
+    background-color: rgb(32,64,154);
+    border-color: rgb(32,64,154);
 }
 
 .course-sidebar-text-box .buy-btns .btn-buy-now:hover, .course-sidebar-text-box .buy-btns .btn-buy-now:focus {
@@ -2222,7 +2222,7 @@ section.course-header-area {
     border: 0;
     background: 0;
     font-size: 17px;
-    color: #ec5252;
+    color: rgb(32,64,154);
     cursor: pointer;
 }
 
@@ -3169,8 +3169,8 @@ section.my-courses-area {
     font-size: 15px;
     line-height: 1.35135;
     border-radius: 2px;
-    background-color: #ec5252;
-    border-color: #ec5252;
+    background-color: rgb(32,64,154);
+    border-color: rgb(32,64,154);
     font-weight: 600;
 }
 
@@ -3378,7 +3378,7 @@ section.cart-list-area {
 }
 
 .cart-course-wrapper .price .current-price {
-    color: #ec5252;
+    color: rgb(32,64,154);
     font-weight: 900;
 }
 
@@ -3391,7 +3391,7 @@ section.cart-list-area {
     position: absolute;
     top: 2px;
     right: 0;
-    color: #ec5252;
+    color: rgb(32,64,154);
     font-size: 14px;
 }
 
@@ -3403,7 +3403,7 @@ section.cart-list-area {
 .cart-sidebar .total-price {
     font-size: 36px;
     line-height: 49px;
-    color: #ec5252;
+    color: rgb(32,64,154);
     font-weight: 600;
 }
 
@@ -3422,8 +3422,8 @@ section.cart-list-area {
     line-height: 1.35135;
     border-radius: 2px;
     color: #fff;
-    background-color: #ec5252;
-    border-color: #ec5252;
+    background-color: rgb(32,64,154);
+    border-color: rgb(32,64,154);
     font-weight: 600;
     padding: 16px 12px;
 }
@@ -3471,7 +3471,7 @@ section.cart-list-area {
 }
 
 .cart-sidebar .coupon-list ul li:hover {
-    color: #ec5252;
+    color: rgb(32,64,154);
 }
 
 .cart-sidebar .coupon-list ul li i {
@@ -3574,8 +3574,8 @@ section.user-dashboard-area {
 
 .user-dashboard-content .content-update-box button {
     color: #fff;
-    background-color: #ec5252;
-    border-color: #ec5252;
+    background-color: rgb(32,64,154);
+    border-color: rgb(32,64,154);
     padding: 11px 12px;
     font-size: 15px;
     border-radius: 2px;
@@ -3812,8 +3812,8 @@ section.user-dashboard-area {
 
 .message-details-box .message-details .message-footer .send-btn {
     color: #fff;
-    background-color: #ec5252;
-    border-color: #ec5252;
+    background-color: rgb(32,64,154);
+    border-color: rgb(32,64,154);
     padding: 11px 12px;
     font-size: 15px;
     border-radius: 2px;
@@ -4099,7 +4099,7 @@ section.purchase-history-list-area {
 .footer-area {
     background-color: #fff;
     padding: 30px 0;
-    border-bottom: 6px solid #ec5252;
+    border-bottom: 6px solid rgb(32,64,154);
     border-top: 1px solid #e8e9eb;
 }
 
