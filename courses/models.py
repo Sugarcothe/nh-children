@@ -46,9 +46,9 @@ class Course(models.Model):
 
 class Lesson(models.Model):
     course = models.ForeignKey(Course, on_delete=models.CASCADE, related_name='lessons')
-    title = models.CharField(max_length=100)
+    title = models.CharField(max_length=200)
     duration = models.FloatField(validators=[MinValueValidator(0.30), MaxValueValidator(30.00)])
-    video_url = models.CharField(max_length=100)
+    video_url = models.CharField(max_length=200)
     created_at = models.DateTimeField(default=now)
     updated_at = models.DateTimeField(default=now)
 
